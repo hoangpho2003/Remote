@@ -1,0 +1,4 @@
+Cách sử dụng chương trình:
+
+- Chạy: SERVER.bat để mở server
+- Chạy: CLIENT.bat để mở client
